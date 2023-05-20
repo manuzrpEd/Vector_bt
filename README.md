@@ -7,3 +7,5 @@ We’ll explore how to optimize the MACD trading strategy using python-based Vec
 We’ll also evaluate the Sharpe ratio of the MACD strategy using walk forward validation and compare it to a simple buy-and-hold approach.
 
 This study provides a robust framework for assessing hyperparameters, optimizing and evaluating the performance of similar strategies.
+
+For best visualisation, use VSCode.
